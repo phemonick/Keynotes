@@ -1,0 +1,44 @@
+[
+    {
+        "key": "c"
+    },
+    {
+        "key": "c# / Db",
+        "shortkey": true
+    },
+    {
+        "key": "D"
+    },
+    {
+        "key": "D# / Eb",
+        "shortkey": true
+    },
+    {
+        "key": "E"
+    },
+    {
+        "key": "F"
+    },
+    {
+        "key": "F# / Gb",
+        "shortkey": true
+    },
+    {
+        "key": "G"
+    },
+    {
+        "key": "G# / Ab",
+        "shortkey": true
+    },
+    {
+        "key": "A"
+    },
+    {
+        "key": "A# / Bb",
+        "shortkey": true
+    },
+    {
+        "key": "B"
+    }
+
+]
